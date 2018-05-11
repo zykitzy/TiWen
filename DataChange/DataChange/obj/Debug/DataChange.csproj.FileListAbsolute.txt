@@ -1,0 +1,15 @@
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\bin\Debug\DataChange.exe.config
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\bin\Debug\DataChange.exe
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\bin\Debug\DataChange.pdb
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.csprojResolveAssemblyReference.cache
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\MainWindow.g.cs
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\App.g.cs
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange_MarkupCompile.cache
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange_MarkupCompile.lref
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\MainWindow.baml
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.g.resources
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.Properties.Resources.resources
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.csproj.GenerateResource.cache
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.csproj.CoreCompileInputs.cache
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.exe
+D:\OcaMar\software\体温采集系统\Source\Branches\zhangyi\DataChange\DataChange\DataChange\obj\Debug\DataChange.pdb
