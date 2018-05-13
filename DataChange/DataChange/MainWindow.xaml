@@ -11,12 +11,14 @@
             <RowDefinition Height="25"/>
             <RowDefinition Height="25"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="20" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="5"/>
             <ColumnDefinition Width="80"/>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="10"  />
         </Grid.ColumnDefinitions>
         <TextBlock Name="lblrequestIp" Text="接收端地址:" 
                    TextAlignment="Left" VerticalAlignment="Center" Grid.Row="0" 
@@ -32,6 +34,22 @@
                    Grid.Column="1"  Width="auto"></TextBlock>
         <TextBox Name="txtResponse" Grid.Row="1" Grid.Column="2" InputMethod.PreferredImeState="Off"
                  HorizontalAlignment="Left" VerticalAlignment="Center" Width="780" BorderThickness="2" Keyboard.KeyDown="txtRequest_KeyDown"></TextBox>
+
+        <ListView Name="listShow" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Background="Gray" Focusable="False">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="标签ID" DisplayMemberBinding="{Binding Path=LableID}" Width="200" />
+                    <GridViewColumn Header="获取的信息" DisplayMemberBinding="{Binding Path=LableValue}"  Width="300"/>
+                    <GridViewColumn Header="转换后信息信息" Width="300">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Path=ConvertValue}" Foreground="Red" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
 
     </Grid>
 </Window>
