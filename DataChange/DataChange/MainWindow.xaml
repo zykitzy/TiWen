@@ -20,7 +20,7 @@
             <ColumnDefinition Width="80"/>
             <ColumnDefinition Width="10"  />
         </Grid.ColumnDefinitions>
-        <TextBlock Name="lblrequestIp" Text="接收端地址:" 
+        <TextBlock Name="lblrequestIp" Text="本机端口:" 
                    TextAlignment="Left" VerticalAlignment="Center" Grid.Row="0" 
                    Grid.Column="1"  Width="auto"></TextBlock>
         <TextBox Name="txtRequest" Grid.Row="0" Grid.Column="2" InputMethod.PreferredImeState="Off"

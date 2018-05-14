@@ -1,0 +1,7 @@
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Debug\ConsoleData.exe.config
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Debug\ConsoleData.exe
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Debug\ConsoleData.pdb
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Debug\ConsoleData.csproj.CoreCompileInputs.cache
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Debug\ConsoleData.exe
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Debug\ConsoleData.pdb
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Debug\ConsoleData.csprojAssemblyReference.cache

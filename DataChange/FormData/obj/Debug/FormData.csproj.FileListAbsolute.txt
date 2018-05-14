@@ -1,0 +1,10 @@
+D:\GitHub\TiWen\DataChange\FormData\bin\Debug\FormData.exe.config
+D:\GitHub\TiWen\DataChange\FormData\bin\Debug\FormData.exe
+D:\GitHub\TiWen\DataChange\FormData\bin\Debug\FormData.pdb
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.csprojAssemblyReference.cache
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.Form1.resources
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.Properties.Resources.resources
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.csproj.GenerateResource.cache
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.csproj.CoreCompileInputs.cache
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.exe
+D:\GitHub\TiWen\DataChange\FormData\obj\Debug\FormData.pdb
