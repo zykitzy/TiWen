@@ -2,21 +2,10 @@
 <configuration>
   <appSettings>
     <!-- TagServer编号，一个程序只能模拟一个Server -->
-    <add key="TagServer" value="00 00 42 10 01 60,10.10.5.29"/>
+    <add key="TagServer" value="00 00 42 10 01 60"/>
  <!-- 昂科标签和Kadi 标签互转，‘|’号前是昂科标签，后是卡迪标签，用,分割支持多组标签互转  -->
-    <add key="TagClient" value="85 FF FF 01|00 00 15 10 00 CB,
-85 FF FF 02|00 00 15 10 00 A1,
-85 FF FF 03|00 00 15 10 00 A2,
-85 FF FF 04|00 00 15 10 00 A3,
-85 FF FF 05|00 00 15 10 00 A4,
-85 FF FF 06|00 00 15 10 00 A5,
-85 FF FF 07|00 00 15 10 00 A6,
-85 FF FF 08|00 00 15 10 00 A7,
-85 FF FF 09|00 00 15 10 00 CB,
-85 FF FF 11|00 00 15 10 00 FE,
-85 FF FF 12|00 00 15 10 00 A2,
-85 FF FF 13|FD 00 00 00 15 10"/>
-   <!-- 体温系统服务器和端口, ','分割 -->
+    <add key="TagClient" value="85 FF FF 01|00 00 15 10 00 CB"/>
+    <!-- 体温系统服务器和端口, ','分割 -->
     <add key="NurseServer" value="10.10.5.25,25006"/>
  <!-- 程序监听的本地端口 -->
     <add key="ListenPort" value="1111"/>

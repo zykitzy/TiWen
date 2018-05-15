@@ -1,0 +1,11 @@
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Release\ConsoleData.exe.config
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Release\ConsoleData.exe.manifest
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Release\ConsoleData.application
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Release\ConsoleData.exe
+D:\GitHub\TiWen\DataChange\ConsoleData\bin\Release\ConsoleData.pdb
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.csprojAssemblyReference.cache
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.csproj.CoreCompileInputs.cache
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.exe.manifest
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.application
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.exe
+D:\GitHub\TiWen\DataChange\ConsoleData\obj\Release\ConsoleData.pdb
