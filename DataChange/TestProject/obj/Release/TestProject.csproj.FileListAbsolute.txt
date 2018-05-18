@@ -1,0 +1,7 @@
+D:\GitHub\TiWen\DataChange\TestProject\bin\Release\TestProject.exe.config
+D:\GitHub\TiWen\DataChange\TestProject\bin\Release\TestProject.exe
+D:\GitHub\TiWen\DataChange\TestProject\bin\Release\TestProject.pdb
+D:\GitHub\TiWen\DataChange\TestProject\obj\Release\TestProject.csprojAssemblyReference.cache
+D:\GitHub\TiWen\DataChange\TestProject\obj\Release\TestProject.csproj.CoreCompileInputs.cache
+D:\GitHub\TiWen\DataChange\TestProject\obj\Release\TestProject.exe
+D:\GitHub\TiWen\DataChange\TestProject\obj\Release\TestProject.pdb
