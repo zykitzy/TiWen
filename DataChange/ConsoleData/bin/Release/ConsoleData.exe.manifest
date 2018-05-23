@@ -53,14 +53,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ConsoleData.exe" size="11760">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ConsoleData.exe" size="14320">
       <assemblyIdentity name="ConsoleData" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YRVdrlKMlYUDM3TZ9m+prCXWZ+giri21/gjRcG67kOI=</dsig:DigestValue>
+        <dsig:DigestValue>2Hm61bzzAhIKFdQWod2jcmzYSqQz5r/4DMLQHxAVyYE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

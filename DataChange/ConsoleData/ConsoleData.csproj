@@ -83,6 +83,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CRC.cs" />
+    <Compile Include="Helper\CaDiHelper.cs" />
+    <Compile Include="Helper\CheckHelper.cs" />
+    <Compile Include="Helper\OcaMarHelper.cs" />
+    <Compile Include="Helper\SysHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -92,7 +97,7 @@
     </None>
     <None Include="ConsoleData_TemporaryKey.pfx" />
     <None Include="log4net.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />

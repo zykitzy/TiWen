@@ -1,7 +1,0 @@
-D:\GitHub\TiWen\DataChange\TestProject\bin\Debug\TestProject.exe.config
-D:\GitHub\TiWen\DataChange\TestProject\bin\Debug\TestProject.exe
-D:\GitHub\TiWen\DataChange\TestProject\bin\Debug\TestProject.pdb
-D:\GitHub\TiWen\DataChange\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
-D:\GitHub\TiWen\DataChange\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
-D:\GitHub\TiWen\DataChange\TestProject\obj\Debug\TestProject.exe
-D:\GitHub\TiWen\DataChange\TestProject\obj\Debug\TestProject.pdb
